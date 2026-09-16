@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：识别质量
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 050 篇 - 百家乐Ai预测分析工具：把可复现实验写成别人能执行的步骤](https://github.com/TGmszrcsz/baccarat-ai-050) ｜ [下一篇：第 052 篇 - 百家乐Ai预测分析工具：识别区域变化会带来什么连锁影响](https://github.com/TGmszrcsz/baccarat-ai-052)
+
+<!-- article-chain:end -->
+
 缩小后的图片中局号模糊，人工与软件读取都不稳定。本篇围绕“截图清晰度决定哪些字段能够被读取”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从具体场景进入问题
